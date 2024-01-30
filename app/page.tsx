@@ -34,6 +34,6 @@ export default async function Home() {
       ))}
     </div>
 </div>
-  );
+  );}
 
-}
+export const revalidate = 1
